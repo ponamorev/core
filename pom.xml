@@ -8,5 +8,22 @@
     <artifactId>core</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <java.compile.version>11</java.compile.version>
+    </properties>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <target>${java.compile.version}</target>
+                    <source>${java.compile.version}</source>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
