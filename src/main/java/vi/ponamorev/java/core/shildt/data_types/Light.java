@@ -1,4 +1,4 @@
-package vi.ponamorev.java.core.shildt.chapter_3;
+package vi.ponamorev.java.core.shildt.data_types;
 
 // Calculate distance which light will pass,
 // by using variables with 'long' type

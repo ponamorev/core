@@ -1,4 +1,4 @@
-package vi.ponamorev.java.core.shildt.chapter_2;
+package vi.ponamorev.java.core.shildt.java_review;
 
 /*
     Show the loop 'for' working.
