@@ -1,4 +1,4 @@
-package vi.ponamorev.java.core.shildt.data_types;
+package shildt.data_types;
 
 // Calculate circle surface
 class Area {

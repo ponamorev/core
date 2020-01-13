@@ -1,4 +1,4 @@
-package vi.ponamorev.java.core.javaprof;
+package javaprof;
 
 import java.util.ArrayList;
 import java.util.Collection;

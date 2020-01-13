@@ -1,4 +1,4 @@
-package vi.ponamorev.java.core.javaprof.ex_1.foreach;
+package javaprof.ex_1.foreach;
 
 public class Animal {
     String breed;

@@ -1,4 +1,4 @@
-package vi.ponamorev.java.core.shildt.java_review;
+package shildt.java_review;
 
 /*
     This is another one example.

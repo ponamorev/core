@@ -1,4 +1,4 @@
-package vi.ponamorev.java.core.shildt.operations;
+package shildt.operations;
 
 /**
  * Class shows using '%' operation

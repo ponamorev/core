@@ -1,4 +1,4 @@
-package vi.ponamorev.java.core.javaprof.ex_1.foreachWithPrimitives;
+package javaprof.ex_1.foreachWithPrimitives;
 
 public class Main {
     public static void main(String[] args) {
