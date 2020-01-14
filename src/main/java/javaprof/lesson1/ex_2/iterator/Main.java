@@ -1,4 +1,4 @@
-package javaprof.ex_2.iterator;
+package javaprof.lesson1.ex_2.iterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package javaprof;
+package javaprof.lesson1;
 
 import java.util.ArrayList;
 import java.util.Collection;

@@ -1,4 +1,4 @@
-package javaprof.ex_1.foreach;
+package javaprof.lesson1.ex_1.foreach;
 
 public class Animal {
     String breed;

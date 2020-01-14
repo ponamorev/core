@@ -1,4 +1,4 @@
-package javaprof.ex_1.foreachWithPrimitives;
+package javaprof.lesson1.ex_1.foreachWithPrimitives;
 
 public class Main {
     public static void main(String[] args) {

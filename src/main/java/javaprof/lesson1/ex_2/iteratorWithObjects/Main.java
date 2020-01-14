@@ -1,7 +1,6 @@
-package javaprof.ex_2.iteratorWithObjects;
+package javaprof.lesson1.ex_2.iteratorWithObjects;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.ListIterator;
 
 public class Main {
